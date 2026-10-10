@@ -31,7 +31,7 @@ Outside tech, I'm into gym training and playing football
 - **[StockFlow Analytics](https://github.com/chindoveleroy00/<stockflow-repo>):** Flask analytics app built on real stock and sales data from my resale business.
 - **[Patient Health Recovery Prediction](https://github.com/chindoveleroy00/<recovery-repo>):** XGBoost model predicting recovery duration, with a Flask + MySQL app for single and batch predictions.
 - **[Heart Disease Prediction System](https://github.com/chindoveleroy00/<heart-repo>):** XGBoost and Scikit-learn model with a Flask web interface.
-- - **Web projects:** WordPress websites and SME-focused applications
+- **Web projects:** WordPress websites and SME-focused applications
 
 ## 🌱 Currently Learning 
 
