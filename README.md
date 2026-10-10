@@ -22,19 +22,24 @@ My projects cover **retail demand forecasting, inventory analytics and predictiv
 
 Outside tech, I'm into gym training and playing football
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
-## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+<!-- 🌐 Replace "your-username" with your actual GitHub username -->
+### [🏆 Check Out My Full Portfolio Website](https://chindoveleroy00.github.io/)
+
+
+## 🔭 What I'm Working On
+
+- **[SIFS: Sales Inventory Forecasting System](https://github.com/chindoveleroy00/<sifs-repo>):** Demand forecasting (ARIMA, Prophet, Croston TSB, ensemble) with a FastAPI backend, Streamlit dashboard and Zimbabwe price-control compliance checks.
+- **[StockFlow Analytics](https://github.com/chindoveleroy00/<stockflow-repo>):** Flask analytics app built on real stock and sales data from my resale business.
+- **[Patient Health Recovery Prediction](https://github.com/chindoveleroy00/<recovery-repo>):** XGBoost model predicting recovery duration, with a Flask + MySQL app for single and batch predictions.
+- **[Heart Disease Prediction System](https://github.com/chindoveleroy00/<heart-repo>):** XGBoost and Scikit-learn model with a Flask web interface.
+- - **Web projects:** WordPress websites and SME-focused applications
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- **PL-300:** Preparing for the Microsoft Power BI Data Analyst certification
+- **Data engineering:** Pipelines, warehousing and production-grade workflows
+- **WordPress and no-code/AI app builders:** Faster delivery for small business clients
 
 ## 🛠️ Technical Skillset
 
