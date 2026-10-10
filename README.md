@@ -1,9 +1,7 @@
 ## Hi there, I'm Leroy Takudzwanashe Chindove 👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Based+in+Harare+Zimbabwe" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&height=60&lines=Data+Analyst+%7C+BI+Developer;Turning+Data+into+Actionable+Insights;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Machine+Learning;Forecasting+%C2%B7+Analytics+%C2%B7+Data+Engineering;Based+in+Harare%2C+Zimbabwe" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
