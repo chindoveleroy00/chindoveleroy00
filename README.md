@@ -74,3 +74,6 @@ Outside tech, I'm into gym training and playing football
   <img src="https://img.shields.io/badge/Sales%20%26%20Customer%20Service-Experienced-FF6B6B?style=flat" alt="Sales and Customer Service">
   <img src="https://img.shields.io/badge/Social%20Media%20Marketing-Paid%20Campaigns-1877F2?style=flat&logo=facebook&logoColor=white" alt="Social Media Marketing">
 </p>
+
+## 📬 Let's Connect
+Open to BI, data analyst and data engineering opportunities, and to freelance work on websites, dashboards and Python projects. Reach me at **chindoveleroy@gmail.com**.
